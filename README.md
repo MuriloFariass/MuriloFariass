@@ -11,10 +11,6 @@ Bem-vindo ao meu perfil GitHub! Sou **desenvolvedor em Python** com uma boa noç
 ### 🛠️ Ferramentas e Tecnologias que eu uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092D33?style=flat&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-- **Linguagens**: Python, SQL
-- **Frameworks**: Flask, Django
+- **Linguagens**: Python
 - **Ferramentas**: Git, GitHub, VSCode
