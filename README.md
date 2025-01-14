@@ -39,7 +39,7 @@ Aqui estão alguns dos projetos que desenvolvi, focados em aplicar minha boa no�
 
 Eu adoro conversar sobre **Python**, **desenvolvimento back-end** e **automação de processos**. Se você quiser colaborar em projetos ou trocar ideias, sinta-se à vontade para me mandar uma mensagem!
 
-- 📸 [Instagram](https://www.instagram.com/oo.farias)
+- [![Instagram](https://img.shields.io/badge/-Instagram-BC2A8D?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oo.farias)
 
 ---
 
