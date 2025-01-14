@@ -1,53 +1,35 @@
-# Olá, eu sou o Murilo 👋
+# Olá, eu sou o Murilo 👋  
 
-Bem-vindo ao meu perfil GitHub! Sou **desenvolvedor em Python** com uma boa noção da linguagem e focado em ser um **desenvolvimento back-end** e na  **automação de processos**. Atualmente, estou começando a cursar **Análise e Desenvolvimento de Sistemas (ADS)** para aprimorar ainda mais minhas habilidades e expandir meu conhecimento sobre desenvolvimento de software.
-
-### 🧑‍💻 O que eu faço
-
-- 🔥 **Desenvolvo soluções práticas** em **Python**, como automação de tarefas;
-- 🚀 Estou me aprofundando em **estruturas de dados** e **algoritmos**, para melhorar minha lógica e performance de código;
-- 🎓 Comecei o curso de **Análise e Desenvolvimento de Sistemas (ADS)** para expandir meu aprendizado em outras tecnologias e conceitos de software;
-- 🌱 Estou sempre em busca de melhorar e aplicar o que aprendo em **projetos práticos**.
+Sou um desenvolvedor iniciante com foco em **desenvolvimento back-end**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Domino os fundamentos de **Python** e estou expandindo minhas habilidades para me especializar em tecnologias de back-end. Meu objetivo é criar soluções robustas e eficientes, enquanto continuo aprendendo e crescendo na área de desenvolvimento de software.  
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias que eu uso
+### 🛠️ Tecnologias  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- **Linguagens**: Python, 
-- **Ferramentas**: Git, GitHub, VSCode
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
 
-### 🔍 Meus Projetos
+### 🚀 Projetos em Destaque  
 
-Aqui estão alguns dos projetos que desenvolvi, focados em aplicar minha boa noção de **Python** e outras ferramentas:
+- **[Projeto 1: Calculadora Simples](link)**  
+  Uma calculadora básica desenvolvida em Python, com foco na lógica de programação e na manipulação de variáveis.  
 
-- 
-
----
-
-### 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+- **[Projeto 2: Sistema de Login](link)**  
+  Um sistema simples para autenticação de usuários, usando Python e conceitos básicos de armazenamento de dados.  
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 📊 Estatísticas do GitHub  
 
-Eu adoro conversar sobre **Python**, **desenvolvimento back-end** e **automação de processos**. Se você quiser colaborar em projetos ou trocar ideias, sinta-se à vontade para me mandar uma mensagem!
-
-- [![Instagram](https://img.shields.io/badge/-Instagram-BC2A8D?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oo.farias)
-
----
-
-### 🚀 Minhas metas para o futuro
-
-- Continuar aprendendo sobre **estruturas de dados** e **algoritmos** para aprimorar minha programação.
-- Criar projetos mais completos, como **APIs** e **sistemas escaláveis** com **Django** e **PostgreSQL**.
-- Expandir meu conhecimento para **desenvolvimento front-end** e **design de sistemas**.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MuriloFariass&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFariass&layout=compact&theme=radical)  
 
 ---
+
+### 🤝 Conecte-se Comigo  
+
+- 📸 [![Instagram](https://img.shields.io/badge/-Instagram-BC2A8D?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oo.farias)  
+- 📬 [Email](mailto:murilosaueressyfarias@gmail.com)  
+
 
