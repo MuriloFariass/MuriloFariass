@@ -20,9 +20,9 @@ Sou um desenvolvedor iniciante com foco em **desenvolvimento back-end**, atualme
 - **[Projeto 1: Distribuição de Sedulas](https://github.com/MuriloFariass/Distribution-of-Sedules/blob/main/71saque.py)**  
   Uma calculadora básica que diz quantas notas de cada sedula será necessarui, desenvolvido em Python, com foco na
   lógica de programação, manipulação de variáveis e uso do laço de repetiçao 'While".
-- **[Projeto 2: Sistema de Login](link)**  
-  Um sistema simples para autenticação de usuários, usando Python e conceitos básicos de armazenamento de dados.  
-
+- **[Projeto 2: Comparação de idades](https://github.com/MuriloFariass/compara-o-de-idade/blob/main/56media.py)**  
+  Um sistema completo que informa ao úsuario algumas informações, como o homem mais velho, mulheres com -20 anos e média de idade.
+  
 ---
 
 ### 📊 Estatísticas do GitHub  
