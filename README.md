@@ -17,9 +17,9 @@ Sou um desenvolvedor iniciante com foco em **desenvolvimento back-end**, atualme
 
 ### 🚀 Projetos em Destaque  
 
-- **[Projeto 1: Calculadora Simples](link)**  
-  Uma calculadora básica desenvolvida em Python, com foco na lógica de programação e na manipulação de variáveis.  
-
+- **[Projeto 1: Distribuição de Sedulas](https://github.com/MuriloFariass/Distribution-of-Sedules/blob/main/71saque.py)**  
+  Uma calculadora básica que diz quantas notas de cada sedula será necessarui, desenvolvido em Python, com foco na
+  lógica de programação, manipulação de variáveis e uso do laço de repetiçao 'While".
 - **[Projeto 2: Sistema de Login](link)**  
   Um sistema simples para autenticação de usuários, usando Python e conceitos básicos de armazenamento de dados.  
 
