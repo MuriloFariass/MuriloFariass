@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante com foco em **desenvolvimento back-end**, atualme
 
 ### 🛠️ Tecnologias  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 ---
 
